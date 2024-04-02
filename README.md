@@ -2,5 +2,12 @@
 
 This is a test repo. Lots of tests.
 
-<!-- START thoughtbot/templates/footer.md -->
-<!-- END thoughtbot/templates/footer.md -->
+Snippet without "/":
+
+<!-- START templates/footer.md -->
+<!-- END templates/footer.md -->
+
+Snippet with "/":
+
+<!-- START /templates/footer.md -->
+<!-- END /templates/footer.md -->
