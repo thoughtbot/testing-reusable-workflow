@@ -2,6 +2,8 @@
 
 This is a test repo. Lots of tests. Merged a PR on templates, will the templates still work without the leading "/"? Nope, it won't.
 
+Testing again: do we need the on.push.main?
+
 <!-- START /templates/footer.md -->
 ## About thoughtbot
 
