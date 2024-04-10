@@ -1,11 +1,6 @@
 name: update-templates
 
 on:
-  push:
-    paths:
-      - README.md
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
