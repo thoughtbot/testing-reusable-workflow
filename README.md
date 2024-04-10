@@ -4,6 +4,8 @@ This is a test repo. Lots of tests. Merged a PR on templates, will the templates
 
 Testing again: do we need the on.push.main? yes, we do.
 
+but maybe with the on merge pr, it works as I want.
+
 <!-- START /templates/footer.md -->
 ## About thoughtbot
 
