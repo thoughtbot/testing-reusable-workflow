@@ -6,6 +6,8 @@ Testing again: do we need the on.push.main? yes, we do.
 
 but maybe with the on merge pr, it works as I want.
 
+How to call the action only if merged?
+
 <!-- START /templates/footer.md -->
 ## About thoughtbot
 
