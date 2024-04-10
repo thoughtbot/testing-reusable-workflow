@@ -1,6 +1,6 @@
 # testing-reusable-workflow
 
-This is a test repo. Lots of tests. Merged a PR on templates, will the templates still work without the leading "/"?
+This is a test repo. Lots of tests. Merged a PR on templates, will the templates still work without the leading "/"? Nope, it won't.
 
 <!-- START /templates/footer.md -->
 ## About thoughtbot
