@@ -8,6 +8,8 @@ but maybe with the on merge pr, it works as I want.
 
 How to call the action only if merged? take 2.
 
+Updating README with another thing.
+
 <!-- START /templates/footer.md -->
 ## About thoughtbot
 
