@@ -7,12 +7,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  if_merged:
-    if: github.event.pull_request.merged == true
-    runs-on: ubuntu-latest
-    steps:
-      - run: update_templates
   update-templates:
+    if: github.event.pull_request.merged == true
     permissions:
       contents: write
       pull-requests: write
