@@ -16,7 +16,8 @@ Updating README with another thing.
 - how to handle the PAT token for the organization?
 
 Updating README without changing the snippet and opening a PR - no action was run
-Updating README changing the snippet and opening a PR -
+Updating README changing the snippet and opening a PR - ran successfully
+Updating README and changing the snippet directly to main -
 
 <!-- START /templates/footer.md -->
 ## About thoughtbot
