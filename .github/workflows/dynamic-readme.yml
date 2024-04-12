@@ -1,16 +1,13 @@
 name: update-templates
 
 on:
-  pull_request:
-    types:
-      - closed
-    paths:
-      - README.md
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
   update-templates:
-    if: github.event.pull_request.merged == true
     permissions:
       contents: write
       pull-requests: write
