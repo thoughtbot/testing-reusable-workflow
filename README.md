@@ -20,6 +20,8 @@ Updating README with another thing.
 - Updating README changing the snippet and opening a PR - ran successfully
 - Updating README and changing the snippet directly to main - does not run the action, so no errors.
 
+hello, Mina
+
 <!-- START /templates/footer.md -->
 ## About thoughtbot
 
