@@ -15,6 +15,8 @@ Updating README with another thing.
 - how to only run the workflow when the automatic PR to update the README is merged?
 - how to handle the PAT token for the organization?
 
+Updating README but not changing the snippet. I am expecting a PR to be opened.
+
 <!-- START /templates/footer.md -->
 ## About thoughtbot
 
