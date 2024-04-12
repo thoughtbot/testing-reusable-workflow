@@ -10,6 +10,11 @@ How to call the action only if merged? take 2.
 
 Updating README with another thing.
 
+## Current problems
+
+- how to only run the workflow when the automatic PR to update the README is merged?
+- how to handle the PAT token for the organization?
+
 <!-- START /templates/footer.md -->
 ## About thoughtbot
 
