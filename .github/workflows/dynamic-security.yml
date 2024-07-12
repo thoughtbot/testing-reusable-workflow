@@ -14,6 +14,6 @@ jobs:
       contents: write
       pull-requests: write
       pages: write
-    uses: thoughtbot/templates/.github/workflows/dynamic-security.yaml@44c188e35e68fc99b6a1a9c63097a01c6972a472
+    uses: thoughtbot/templates/.github/workflows/dynamic-security.yaml@main
     secrets:
       token: ${{ secrets.GITHUB_TOKEN }}
