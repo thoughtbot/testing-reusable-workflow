@@ -1,15 +1,15 @@
-name: update-security-file
+name: update-security
 
 on:
   push:
-    branches:
-      - main
     paths:
       - SECURITY.md
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
-  update_security-file:
+  update-security:
     permissions:
       contents: write
       pull-requests: write
